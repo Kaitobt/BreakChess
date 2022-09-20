@@ -1,0 +1,4 @@
+repository "BreakChess@BreakChess@cloud"
+  path "/"
+    br "/main"
+    co "/main"
